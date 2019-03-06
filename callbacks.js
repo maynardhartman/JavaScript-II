@@ -76,6 +76,7 @@ function finishedContains(answer){
 }
 
 contains("Gun", items, finishedContains);
+
 /* STRETCH PROBLEM */
 
 function removeDuplicates(array, cb) {
